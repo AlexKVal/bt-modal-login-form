@@ -28,7 +28,14 @@
           <div class="modal-body">
             <div class="row">
               <div class="col-xs-6">
-                <div class="well"></div>
+                <div class="well">
+                  <form action="/login/" id="loginForm" method="POST" novalidate>
+                    <div class="form-group"></div>
+                    <div class="form-group"></div>
+                    <button type="submit" class="btn btn-success btn-block">Login</button>
+                    <a href="/forgot/" class="btn btn-default btn-block">I forgot the password</a>
+                  </form>
+                </div>
               </div>
               <div class="col-xs-6">
                 <p class="lead">Register now for <span class="text-success">FREE</span></p>
