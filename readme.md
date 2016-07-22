@@ -5,6 +5,6 @@ For testing in browsers:
 
 How it looks
 
-![](https://raw.githubusercontent.com/alexkval/bt-modal-login-form/result.png)
+![](https://raw.githubusercontent.com/alexkval/bt-modal-login-form/master/result.png)
 
 Credits to [@thingmand](https://twitter.com/thingmand)
